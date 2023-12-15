@@ -1,4 +1,17 @@
 * {
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: rgba(0, 255, 157, 0.74);
+	font-family: Arial;
+	font-size: 20px;
+	padding: 75px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 35px;
 }
